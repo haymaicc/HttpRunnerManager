@@ -3,7 +3,7 @@
 .idea/
 ApiManager/__pycache__/
 ApiManager/logic/__pycache__/
-ApiManager/migrations/__pycache__/
+ApiManager/migrations/*
 HttpRunnerManager/__pycache__/
 httprunner/__pycache__/
 pyunitreport/__pycache__/
