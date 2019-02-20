@@ -119,8 +119,8 @@ if DEBUG:
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'HttpRunner',  # 新建数据库名
             'USER': 'root',  # 数据库登录名
-            'PASSWORD': 'Hst888888',  # 数据库登录密码
-            'HOST': '192.168.91.45',  # 数据库所在服务器ip地址
+            'PASSWORD': 'Abc123$,',  # 数据库登录密码
+            'HOST': '10.1.99.26',  # 数据库所在服务器ip地址
             'PORT': '3306',  # 监听端口 默认3306即可
         }
     }
@@ -133,8 +133,8 @@ else:
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'HttpRunner',  # 新建数据库名
             'USER': 'root',  # 数据库登录名
-            'PASSWORD': 'Hst888888',  # 数据库登录密码
-            'HOST': '192.168.91.45',  # 数据库所在服务器ip地址
+            'PASSWORD': 'Abc123$,',  # 数据库登录密码
+            'HOST': '10.1.99.26',  # 数据库所在服务器ip地址
             'PORT': '3306',  # 监听端口 默认3306即可
         }
     }
